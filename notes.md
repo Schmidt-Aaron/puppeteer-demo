@@ -1,0 +1,3 @@
+- Figure out tor for anonymous scraping
+- find site to scrape
+- craft scraper 
